@@ -9,7 +9,8 @@ public class Tv:Product, IDeliverable {
         }
     }
 
-    string IDeliverable.GetName() {
+    double IDeliverable.getWeight() => Weight;
+    string IDeliverable.getName() {
         return Name ?? "TV";
     }
     public Tv(string? name, double price, int quantity, double weight) : base(name, price, quantity) {

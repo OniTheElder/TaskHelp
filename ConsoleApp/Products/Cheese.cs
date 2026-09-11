@@ -11,8 +11,8 @@ public class Cheese:Product, IExpireable, IDeliverable {
 
     public DateTime ExpiresAt { get; init; }
     public bool IsExpired => DateTime.Now > ExpiresAt;
-
-    string IDeliverable.GetName() {
+    double IDeliverable.getWeight() => Weight;
+    string IDeliverable.getName() {
         return Name ?? "Cheese";
     }
     public Cheese(string? name, double price, int quantity, double weight, TimeSpan periodOfValidity) : base(name, price, quantity) {

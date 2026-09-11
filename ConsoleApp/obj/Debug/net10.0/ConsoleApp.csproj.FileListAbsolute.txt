@@ -12,3 +12,4 @@
 /home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
 /home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
 /home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ConsoleApp.sourcelink.json
