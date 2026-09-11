@@ -1,0 +1,4 @@
+/home/ahmad-abdullatif/RiderProjects/Training/Console/obj/Debug/net10.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmad-abdullatif/RiderProjects/Training/Console/obj/Debug/net10.0/Console.AssemblyInfoInputs.cache
+/home/ahmad-abdullatif/RiderProjects/Training/Console/obj/Debug/net10.0/Console.AssemblyInfo.cs
+/home/ahmad-abdullatif/RiderProjects/Training/Console/obj/Debug/net10.0/Console.csproj.CoreCompileInputs.cache

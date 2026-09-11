@@ -1,0 +1,14 @@
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/bin/Debug/net10.0/ConsoleApp
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/bin/Debug/net10.0/ConsoleApp.deps.json
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/bin/Debug/net10.0/ConsoleApp.runtimeconfig.json
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/bin/Debug/net10.0/ConsoleApp.dll
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/bin/Debug/net10.0/ConsoleApp.pdb
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ConsoleApp.AssemblyInfo.cs
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ConsoleApp.dll
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/refint/ConsoleApp.dll
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ConsoleApp.pdb
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ConsoleApp.genruntimeconfig.cache
+/home/ahmad-abdullatif/RiderProjects/Training/ConsoleApp/obj/Debug/net10.0/ref/ConsoleApp.dll
